@@ -18,3 +18,5 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+wp-config.php
