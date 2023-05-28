@@ -1,1 +1,0 @@
-DreamHost is a cost effective choice, but it has limited features compared to the others.  For example, DreamHost does not support direct uploads.

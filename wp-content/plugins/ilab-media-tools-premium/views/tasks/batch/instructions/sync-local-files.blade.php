@@ -1,1 +1,0 @@
-<p>This tool will sync your cloud storage media to your local filesystem, copying down anything on cloud storage that isn't on your local disk.</p>
